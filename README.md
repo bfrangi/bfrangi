@@ -12,7 +12,6 @@
 ### 👨🏻 About Me
 
 - 🔭 I’m currently working on [`pytransposer`](https://github.com/bfrangi/pytransposer)
-<!-- - 🌱 I’m currently learning : **Node** -->
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/bfrangi?tab=repositories)
 - 💬 Ask me anything about : **Python, Django, JS, HTML, CSS, React Native**
 - 📫 Connect with me through LinkedIn [here](https://www.linkedin.com/in/bernat-frangi-767748225/)
